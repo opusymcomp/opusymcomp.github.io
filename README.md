@@ -1,3 +1,3 @@
 # opusymcomp.github.io
 
-[summer competition]https://opusymcomp.github.io/summercompetition/results.xml
+[summer competition](https://opusymcomp.github.io/summercompetition/results.xml)
